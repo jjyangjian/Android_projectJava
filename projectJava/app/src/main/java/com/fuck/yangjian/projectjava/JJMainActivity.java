@@ -11,7 +11,7 @@ public class JJMainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_jjmain);
 
         //fuck????fdsfdsafa
-
+//发达hiof日期恩UI噢热情归纳为哦我给你惹我我哦凝固日鞥热无哦一个热供热个人
 
     }
 }
